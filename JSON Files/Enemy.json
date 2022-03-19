@@ -1,0 +1,10 @@
+{
+	"Tag": "Enemy",
+	"Transform": {
+		"posx": 600.0,
+		"posy": 100.0,
+		"scale": 50.0
+	},
+	"Sprite": "..\\Resources\\sEnemy.png",
+	"UpDown": {}
+}

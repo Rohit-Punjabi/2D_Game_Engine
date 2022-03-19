@@ -1,0 +1,36 @@
+{
+  "background": null,
+  "objects": [
+    {
+      "Name": "..\\JSON Files\\Player.json",
+      "Transform": {
+        "posx": 375.0,
+        "posy": 700.0,
+        "scaleX": 40.0,
+        "scaleY":  40.0
+      },
+      "Controller": {},
+      "Subscribe": {}
+    },
+
+    {
+      "Name": "..\\JSON Files\\Wall.json",
+      "Transform": {
+        "posx": 675.0,
+        "posy": 375.0,
+        "scaleX": 100.0,
+        "scaleY": 500.0
+      }
+    },
+
+    {
+      "Name": "..\\JSON Files\\Wall.json",
+      "Transform": {
+        "posx": 75.0,
+        "posy": 375.0,
+        "scaleX": 100.0,
+        "scaleY": 500.0
+      }
+    }
+  ]
+}

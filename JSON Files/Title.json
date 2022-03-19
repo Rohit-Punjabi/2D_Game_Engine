@@ -1,0 +1,10 @@
+{
+	"Tag": "Title",
+	"Transform": {
+		"posx": 375.0,
+		"posy": 150.0,
+		"scaleX": 250.0,
+		"scaleY": 125.0
+	},
+	"Sprite": "..\\Resources\\sTitle.png"
+}

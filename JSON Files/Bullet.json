@@ -1,0 +1,11 @@
+{
+	"Tag": "Bullet",
+	"Transform": {
+		"posx": 200.0,
+		"posy": 400.0,
+		"scaleX": 20.0,
+		"scaleY": 20.0
+	},
+	"Sprite": "..\\Resources\\sBullet.png",
+	"UpDown": {}
+}

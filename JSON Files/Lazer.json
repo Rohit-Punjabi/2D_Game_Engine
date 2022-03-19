@@ -1,0 +1,11 @@
+{
+	"Tag": "Lazer",
+	"Transform": {
+		"posx": 200.0,
+		"posy": 400.0,
+		"scaleX": 25.0,
+		"scaleY": 20.0
+	},
+	"Sprite": "..\\Resources\\sLazer.png",
+	"UpDown": {}
+}

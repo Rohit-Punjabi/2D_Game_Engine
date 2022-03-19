@@ -1,0 +1,10 @@
+{
+  "Tag": "ControlsScreen",
+  "Transform": {
+    "posx": 375.0,
+    "posy": 375.0,
+    "scaleX": 500.0,
+    "scaleY": 500.0
+  },
+  "Sprite": "..\\Resources\\sControlsMenu.png"
+}

@@ -1,0 +1,65 @@
+﻿  CollisionManager.cpp
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\CollisionManager.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\CollisionManager.cpp(29,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\CollisionManager.cpp(105,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\CollisionManager.cpp(146,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\CollisionManager.cpp(186,22): warning C4018: '<': signed/unsigned mismatch
+  Component.cpp
+  Controller.cpp
+  EBO.cpp
+  EnemySpawner.cpp
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\ResourceManager.h(15,18): warning C4099: 'SDL_Surface': type name first seen using 'struct' now seen using 'class'
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Sprite.h(8): message : see declaration of 'SDL_Surface'
+  EventManager.cpp
+  FrameRateController.cpp
+  GameObject.cpp
+  GameObjectFactory.cpp
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\ResourceManager.h(15,18): warning C4099: 'SDL_Surface': type name first seen using 'struct' now seen using 'class'
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Sprite.h(8): message : see declaration of 'SDL_Surface'
+  GameObjectManager.cpp
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\GameObjectManager.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+  InputManager.cpp
+  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\rohit\Desktop\DigiPen_Assignments\CS529 - Game Engine\Projects\Final Project Milestone 1 Complete Code\Final Project Milestone 1 Complete Code\GLAD\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\ResourceManager.h(15,18): warning C4099: 'SDL_Surface': type name first seen using 'struct' now seen using 'class'
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\SDL2.0 Lib\include\SDL_surface.h(70): message : see declaration of 'SDL_Surface'
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(227,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(241,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(291,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(323,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(352,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(369,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(397,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(422,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(426,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(430,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(438,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(445,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Main.cpp(511,23): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  Renderer.cpp
+  ResourceManager.cpp
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\ResourceManager.h(15,18): warning C4099: 'SDL_Surface': type name first seen using 'struct' now seen using 'class'
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\SDL2.0 Lib\include\SDL_surface.h(70): message : see declaration of 'SDL_Surface'
+  shaderClass.cpp
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\shaderClass.cpp(11,27): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+  Sprite.cpp
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\ResourceManager.h(15,18): warning C4099: 'SDL_Surface': type name first seen using 'struct' now seen using 'class'
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Sprite.h(8): message : see declaration of 'SDL_Surface'
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Sprite.cpp(24,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Sprite.cpp(25,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Transform.cpp
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\ResourceManager.h(15,18): warning C4099: 'SDL_Surface': type name first seen using 'struct' now seen using 'class'
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Sprite.h(8): message : see declaration of 'SDL_Surface'
+  UpDown.cpp
+C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\UpDown.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+  VAO.cpp
+  Compiling...
+  VBO.cpp
+  glad.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game Engine.vcxproj -> C:\Users\rohit\Desktop\ToCheckAtDigiPenUpdated\ToCheckAtDigiPenUpdated\Game Engine\Release\Game Engine.exe

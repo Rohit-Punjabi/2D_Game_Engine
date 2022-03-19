@@ -1,0 +1,9 @@
+{
+	"Tag": "Player",
+	"Transform": {
+		"posx": 200.0,
+		"posy": 400.0
+	},
+	"Sprite": "..\\Resources\\sPlayer.png",
+	"Controller": {}
+}

@@ -1,0 +1,10 @@
+{
+	"Tag": "BackButton",
+	"Transform": {
+		"posx": 375.0,
+		"posy": 600.0,
+		"scaleX": 200.0,
+		"scaleY": 75.0
+	},
+	"Sprite": "..\\Resources\\sPlayButton.png"
+}

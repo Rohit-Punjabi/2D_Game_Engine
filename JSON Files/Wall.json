@@ -1,0 +1,9 @@
+{
+	"Tag": "Wall",
+	"Transform": {
+		"posx": 600.0,
+		"posy": 100.0,
+		"scale": 0.0
+	},
+	"Sprite": "..\\Resources\\sWall.png"
+}
